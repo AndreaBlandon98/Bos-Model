@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px; /* Espacio alrededor del contenido de la página */
+}
+
+.box {
+    background-color: #ffffff; /* Color de fondo del contenido */
+    width: 300px; /* Ancho del contenido */
+    padding: 20px; /* Espacio interno alrededor del contenido */
+    border: 5px solid #007bff; /* Borde azul alrededor de la caja */
+    margin: 20px auto; /* Margen superior e inferior de 20px y centrado horizontalmente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidad */
+}
+
+h1 {
+    margin: 0; /* Elimina márgenes del encabezado */
+    font-size: 24px;
+}
+
+h2 {
+    margin: 0; /* Elimina márgenes del encabezado */
+    font-size: 20px;
+}
+
+p {
+    margin: 10px 0; /* Margen superior e inferior de 10px para los párrafos */
+}
